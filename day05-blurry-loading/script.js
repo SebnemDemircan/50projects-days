@@ -23,5 +23,5 @@ const scale = (num, in_min, in_max, out_min, out_max) => {
 }
 
 
-// blue hakkında bilgi için linke bakabilirsiniz.
+// blur hakkında bilgi için linke bakabilirsiniz.
 // https://stackoverflow.com/questions/10756313/javascript-jquery-map-a-range-of-numbers-to-another-range-of-numbers
